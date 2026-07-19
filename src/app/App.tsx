@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
-import { Home, BarChart2, BookOpen, Map, ChevronLeft, Check, Plus, Minus, Search, X } from "lucide-react";
+import { Chrome as Home, ChartBar as BarChart2, BookOpen, Map, ChevronLeft, Check, Plus, Minus, Search, X } from "lucide-react";
+import "../styles/index.css";
 
 // ── Course database ───────────────────────────────────────────────────────────
 
